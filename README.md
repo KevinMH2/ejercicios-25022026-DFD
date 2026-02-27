@@ -1,7 +1,7 @@
 
 # Ejercicios 25/02/2026 - DFD
 
-## Integrantes
+## Integrante
 
 - Kevin Leonardo Mendoza Huertas – 001110484
 
